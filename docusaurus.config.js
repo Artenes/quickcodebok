@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: 'Quick Code BOK',
   tagline: 'Snippets and references for tools that I use',
   url: 'https://quickcodebok.artenes.github.com',
-  baseUrl: '/',
+  baseUrl: '/quickcodebok/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
