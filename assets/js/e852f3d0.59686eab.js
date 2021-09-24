@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbok=self.webpackChunkbok||[]).push([[933],{9552:function(s){s.exports={blogPosts:[]}}}]);
