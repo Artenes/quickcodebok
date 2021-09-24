@@ -62,4 +62,4 @@ public class ExampleInstrumentedTest {
 
 - Android Developers: [Build Instrumented Unit Tests](https://developer.android.com/training/testing/unit-testing/instrumented-unit-tests)
 - Android Developers: [Test Your Service](https://developer.android.com/training/testing/integration-testing/service-testing)
-- Android Develoeprs: [ActivityScenario](ActivityScenario)
+- Android Develoeprs: [ActivityScenario](https://developer.android.com/reference/androidx/test/core/app/ActivityScenario)
